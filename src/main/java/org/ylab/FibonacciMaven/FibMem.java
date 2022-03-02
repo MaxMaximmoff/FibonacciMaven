@@ -25,6 +25,7 @@ public class FibMem {
             return fibStore[0];
         }
         else if (n_max==1) {
+            fibStore[0] = 0;
             fibStore[1] = 1;
             return fibStore[1];
         }

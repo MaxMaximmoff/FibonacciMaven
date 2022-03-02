@@ -8,4 +8,4 @@ FibNoMem.java  - Реализация алгоритма поиска числа
 
 FibCashe.java, FibCasheRun.java - Классы для получения чисел Фибоначчи с использованием кэша на основе ArrayList
   
-FibonacciTest.java - тестирование классов
+FibonacciTest.java - тестирование классов.
